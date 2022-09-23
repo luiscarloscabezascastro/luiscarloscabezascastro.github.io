@@ -1,3 +1,3 @@
 # proyecto-encriptador
 Proyeco encriptador
-Implementado a partor de las capacitaciones recibidas en Alura Latam
+Implementado desde las capacitaciones recibidas en Alura Latam
